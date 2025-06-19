@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🌸 Hi there, I'm Cecilia! 👋  
 
-<!--
-**Ceeecilllia/Ceeecilllia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Columbia University · M.S. in Statistics  
+- 🧁 You can also call me Jiangnan Wan ✨  
+- 🍡 Currently solving **Top 100 LeetCode** in Python → [leetcode-hot100-cecilia](https://github.com/Ceeecilllia/leetcode-hot100-cecilia)  
+- 🛠️ Skills: Python · SQL · pandas · scikit-learn · Git  
+- 📫 How to reach me: **jiangnanwan2002@gmail.com**  
+- 📚 Interests: data science · coding · product analytics · bubble tea mochi 💖  
+- 💡 Goal: become a kind and skillful software engineer  
 
-Here are some ideas to get you started:
+> 🐣 *"Just a little girl coding her way to the stars."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
